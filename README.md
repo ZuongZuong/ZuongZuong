@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Hius
+## Hi there 👋. I'm Duong Do
 
 - 🔭 I’m currently working on [TMATechGroup](https://www.tma.vn/)
 - ⚡ Languages: Java, Python
