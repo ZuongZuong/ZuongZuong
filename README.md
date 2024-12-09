@@ -4,5 +4,5 @@
 - ⚡ Languages: Java, Python
 - 📫 How to reach me: **binhduong190599@gmail.com**
 
-### ✍️ Random Quote
+### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
